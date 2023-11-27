@@ -1,0 +1,16 @@
+username = ad
+pin      = 1111
+
+username =sp
+pin      =2222
+
+username =kp
+pin      =3333
+
+username =sd
+pin      =4444
+
+
+transfer money from one account to another account,
+we can  take loan in the same account,
+and close the accounts. 
